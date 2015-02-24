@@ -1,5 +1,6 @@
 
-#Introduction
+Introduction
+------------
 
 IVI-Logging is a software which facilitates the generation of log data. It provides an easy-to-use C++ API enabling you to send log data to various channels such as to the console, files, or GENIVI's DLT (http://projects.genivi.org/diagnostic-log-trace).
 Since application code does not rely directly on any specific logging backend, very little to no modification is needed to change the actual backends used to send the log data.
